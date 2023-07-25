@@ -1,0 +1,10 @@
+* cl-string-complete
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/cl-string-complete.git   |
+| commit  | e5d064e  |
+| systems | cl-string-complete |
+|---------+-------------------------------------------|
+
